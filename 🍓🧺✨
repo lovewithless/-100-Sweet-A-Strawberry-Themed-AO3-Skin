@@ -3725,7 +3725,7 @@ html body #main li.comment form textarea:focus {
 
 #main li.bookmark.blurb .status .hidden,
 #dashboard li.bookmark.blurb .status .hidden {
-  background-image: url("https://64.media.tumblr.com/bcea7a8ec3e19ab96e47a212dce513db/db46d21c2135574c-6c/s500x750/a97342c04c64412741030bd4ce84a32cf05aef6a.png") !important;
+  background-image: url("https://64.media.tumblr.com/c2d526fcac3ad36619707bb78d6b2190/3e4f60d4e863c57a-11/s500x750/afe820f7057e7cd6f4e95329a0807b8c7564b99d.png") !important;
 }
 
 #main li.bookmark.blurb .status .rec,
